@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:latest
 pytorch/pytorch:1.3-cuda10.1-cudnn7-devel
+ubuntu:20.04
